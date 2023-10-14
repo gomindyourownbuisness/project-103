@@ -1,0 +1,19 @@
+body
+{
+    background-color: violet;
+    color:white;
+
+}
+
+.heading
+{
+    width: 80%;
+    font-size: medium;
+}
+
+#camera
+{
+    border: 2px dashed grey;
+    width: 350px ;
+    height : 400px;
+}
